@@ -1,0 +1,11 @@
+{
+  "name": "bot-reixx056",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.26.0"
+  }
+}
