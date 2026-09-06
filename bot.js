@@ -2,8 +2,8 @@ console.log("Bot file started!");
 const mineflayer = require('mineflayer');
 
 const config = {
-  host: 'sadsmp.mcsh.io',
-  port: 25565,
+  host: 'reixx056-LDpZ.aternos.me',
+  port: 63305,
   username: 'BOT',
   version: false
 };
@@ -67,8 +67,7 @@ function startBot() {
 
     // Chat messages every 5 minutes
     const messages = [
-  "🎮 Welcome to SadSMP! Have fun, survive, and enjoy your adventure ⚔️",
-  "🌟 Tip: Use /kit starter to get your free starter gear!",
+  "🎮 Welcome to this SMP! Have fun, survive, and enjoy your adventure ⚔️",
   "🔥 Join events, build bases, and team up with friends!",
   "💬 Need help? Ask staff in chat or Discord!"
 ];
