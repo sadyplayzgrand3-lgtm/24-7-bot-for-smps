@@ -2,9 +2,9 @@ console.log("Bot file started!");
 const mineflayer = require('mineflayer');
 
 const config = {
-  host: 'reixx056-LDpZ.aternos.me',
-  port: 63305,
-  username: 'BOT',
+  host: 'sadsmps3.mcsh.io',
+  port: 25565,
+  username: 'SadSMP-S3.BOT',
   version: false
 };
 
