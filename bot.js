@@ -202,7 +202,7 @@ bot.on('messagestr', (message) => {
   
   bot.on('end', () => {
     console.log('Disconnected. Reconnecting in 10 seconds...');
-    setTimeout(startBot, 10000);
+    setTimeout(startBot, 100);
   });
 
   bot.on('error', err => {
