@@ -2,8 +2,8 @@ console.log("Bot file started!");
 const mineflayer = require('mineflayer');
 
 const config = {
-  host: 'sadsmps3.mcsh.io',
-  port: 25565,
+  host: 'sadsmps3.joinmc.world',
+  port: 36019,
   username: 'SadSMP-S3.BOT',
   version: false
 };
