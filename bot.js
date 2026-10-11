@@ -3,9 +3,7 @@ const mineflayer = require('mineflayer');
 
 const config = {
   host: 'sadsmps3.joinmc.world',
-  port: 36019,
-  username: 'SadSMP-S3.BOT',
-  version: false
+  username: 'SadSMP-S3.BOT'
 };
 
 function startBot() {
