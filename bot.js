@@ -5,7 +5,7 @@ const config = {
   host: 'Clay012.aternos.me',
   port: 38322,
   username: 'Zzzz....',
-  version: 1.21.11
+  version: '1.21.11'
 };
 
 function startBot() {
