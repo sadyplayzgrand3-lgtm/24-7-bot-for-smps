@@ -1,11 +1,11 @@
 {
-  "name": "Zzzz....",
-  "version": "1.21.11",
+  "name": "sady-smp-bot",
+  "version": "1.0.0",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
   "dependencies": {
-    "mineflayer": "^4.26.0"
+    "mineflayer": "^4.35.0"
   }
 }
