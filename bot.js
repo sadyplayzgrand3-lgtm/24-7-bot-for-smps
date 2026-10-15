@@ -2,7 +2,7 @@ console.log("Bot file started!");
 const mineflayer = require('mineflayer');
 
 const config = {
-  host: 'Clay012.aternos.me',
+  host: 'Clay012.aternos.me:38322',
   port: 38322,
   username: 'Zzzz....',
   version: false
