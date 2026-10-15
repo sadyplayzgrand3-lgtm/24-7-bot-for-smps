@@ -4,7 +4,7 @@ const mineflayer = require('mineflayer');
 const config = {
   host: 'Clay012.aternos.me',
   port: 38322,
-  username: 'SadSMP-S3.BOT',
+  username: 'Zzzz....',
   version: false
 };
 
