@@ -144,11 +144,11 @@ bot.on('messagestr', (message) => {
   }
 
   else if (msg.includes('bot_discord')) {
-    bot.chat('💬 Join our Discord: discord.gg/vH9QFKvy');
+    bot.chat('💬 Join our Discord: https://discord.gg/ac7rjtKvr');
   }
 
   else if (msg.includes('bot_website')) {
-    bot.chat('🌐 Website coming soon!');
+    bot.chat('🌐 Website-https://sady-playz-website.sop479717.workers.dev');
   }
 
   // ==========================
