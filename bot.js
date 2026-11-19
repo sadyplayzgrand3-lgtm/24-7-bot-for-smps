@@ -4,7 +4,7 @@ const mineflayer = require('mineflayer');
 const config = {
   host: 'sadsmps3.joinmc.world',
   port: 36019,
-  username: 'Zzzz....',
+  username: 'SadSmp.S-3_bot',
   version: '1.21.11'
 };
 
